@@ -1,10 +1,10 @@
-# Classification of Alzheimer's MRI images
-Classification of MRI images of the first 4 stages of Alzheimer's disease using various Convolutional Neural Networks (CNNs).
+# Early stage detection of Alzheimer's Disease
+Early detection of Alzheimer's disease can be possible through the successful classification of brain MRI images of the first four stages of the disease.
 
 **This project includes :**  
-• Training different convolutional bases [VGG16, Xception, DenseNet201] using transfer learning techniques with a top validation AUC Score of 90%.  
-• Improvement of CNN architectures in order to fit the problem of classifying Alzheimer's early stages.  
-• Development of an interactive image classification Web Application using Django.  
+• Fine-tuning & Deployment of multiple convolutional networks (VGG16, Xception, DenseNet201) for the classification of brain MRI images.  
+
+<i>Tools : TensorFlow/Keras, Matplotlib</i>
 
 # Problem Overview - Alzheimer's
 *References :*  
